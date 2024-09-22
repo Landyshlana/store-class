@@ -1,4 +1,4 @@
-import { ShopItemClass } from "./components";
+import { ShopItemClass } from "./components/ShopItemClass";
 
 import "./App.css";
 
