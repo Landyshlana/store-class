@@ -1,6 +1,6 @@
 import { Component } from "react";
 import PropTypes from "prop-types";
-
+import "./ShopItemFunc.css";
 export class ShopItemClass extends Component {
   render() {
     const { item } = this.props;
