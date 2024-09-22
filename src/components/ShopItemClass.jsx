@@ -26,7 +26,7 @@ export class ShopItemClass extends Component {
   }
 }
 
-ShopItem.propTypes = {
+ShopItemClass.propTypes = {
   item: PropTypes.shape({
     brand: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
